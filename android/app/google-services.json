@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91329367115",
+    "project_id": "bikeservice-fa915",
+    "storage_bucket": "bikeservice-fa915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91329367115:android:5dcbb224aec4ca634811ce",
+        "android_client_info": {
+          "package_name": "com.example.green_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91329367115-urv9mr988j4i8ou9u33vjbh39jnji3ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZq4vFavEDszbscJhIF3h-LodKgvu1nW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91329367115-urv9mr988j4i8ou9u33vjbh39jnji3ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
